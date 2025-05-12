@@ -1,0 +1,5 @@
+A inteligência artificial está revolucionando diversas áreas.  
+O aprendizado de máquina permite que sistemas tomem decisões com base em dados.  
+O processamento de linguagem natural ajuda a entender textos e gerar respostas.  
+A busca vetorial melhora a recuperação de informações em grandes volumes de dados.  
+O Azure oferece serviços avançados para IA e Machine Learning.  
